@@ -3,10 +3,11 @@ package com.example.helloworld3;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
 
-    ImageView imgView;
+    ImageView imgview;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
